@@ -354,6 +354,6 @@ Solutions
 This project improved skills in Power BI, DAX, data modeling, and time-based filtering.
 It shows how real-time Twitter data can be analyzed to understand engagement patterns in a meaningful way.
 
-Dashboard 
+9. Dashboard 
 * The dashboard look like this.
-  ![Dashboard Preview]()
+  ![Dashboard Preview](https://github.com/PreetiDA03/Twitter-Analytics-Dashboard/blob/main/Twitter.PNG)
